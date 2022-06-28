@@ -17,8 +17,6 @@
 
 - ⚡ Fun fact **When I first wrote some code it actually compiled!**
 
-<h3 align="left">Languages, Frameworks and Skills I know:</h3>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/george kostadinov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="george kostadinov" height="30" width="40" /></a>

@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **improving my skills in JavaScript.**
 
-- 🌱 I’m currently learning **ASP.NET Core 6.0, AngularJS**
+- 🌱 I’m currently improving my skills on **ASP.NET Core 6.0 and learning AngularJS**
 
 - 👯 I’m looking to collaborate with **other passionate developers.**
 

@@ -9,7 +9,7 @@
 
 <hr />
 
-- 🔭 I’m currently working on [MyGymWorld](https://github.com/GeorgiKostadinovPro/MyGymWorld)
+- 🔭 I have just finished working on [MyGymWorld](https://github.com/GeorgiKostadinovPro/MyGymWorld)
 
 - 🌱 I’m currently learning **React**
 

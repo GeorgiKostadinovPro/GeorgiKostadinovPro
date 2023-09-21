@@ -52,6 +52,6 @@
     <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40" /> </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=georgikostadinovpro&show_icons=true&locale=en&layout=compact" alt="georgikostadinovpro" /></p>
+![GeorgiKostadinovPro's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GeorgiKostadinovPro&theme=default&show_icons=true&hide_border=false&layout=compact)
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=georgikostadinovpro&show_icons=true&locale=en" alt="georgikostadinovpro" /></p>

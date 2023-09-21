@@ -56,4 +56,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=georgikostadinovpro&show_icons=true&locale=en" alt="georgikostadinovpro" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=georgikostadinovpro&" alt="georgikostadinovpro" /></p>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=GeorgiKostadinovPro)](https://git.io/streak-stats)
+

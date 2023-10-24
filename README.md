@@ -17,6 +17,8 @@
 
 - 👨‍💻 Check my LinkedIn for more info: [Georgi Kostadinov](https://www.linkedin.com/in/georgi-kostadinov-125349241/)
 
+- 📄 Licenses & certifications: [Certifications](https://www.linkedin.com/in/georgi-kostadinov-125349241/details/certifications/)
+
 - 📫 How to reach me **kostadinovgeorgi16@gmail.com**
 
 <hr />

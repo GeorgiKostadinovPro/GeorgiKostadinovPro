@@ -5,10 +5,6 @@
 
 <hr />
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=georgikostadinovpro" alt="georgikostadinovpro" /></a> </p>
-
-<hr />
-
 - 🔭 I have just finished working on [MyGymWorld](https://github.com/GeorgiKostadinovPro/MyGymWorld)
 
 - 🌱 I’m currently learning **React**

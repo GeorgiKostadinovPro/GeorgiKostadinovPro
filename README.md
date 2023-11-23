@@ -15,6 +15,8 @@
 
 - 📄 Licenses & certifications: [Certifications](https://www.linkedin.com/in/georgi-kostadinov-125349241/details/certifications/)
 
+- 📝 Software University Diploma [Diploma](https://softuni.bg/certificates/details/193728/73d9549f)
+
 - 📫 How to reach me **kostadinovgeorgi16@gmail.com**
 
 <hr />

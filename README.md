@@ -1,4 +1,4 @@
-![github-header-image](https://github.com/GeorgiKostadinovPro/GeorgiKostadinovPro/assets/72508846/daa3fcc8-17c8-4cf9-818c-73bd074b2b90)
+![github-header-image](https://github.com/GeorgiKostadinovPro/GeorgiKostadinovPro/assets/72508846/63d3c9f6-ae46-4d6f-a263-89d76d470454)
 
 <h1 align="center">Hi 👋, I'm Georgi</h1>
 <h3 align="center">A passionate .NET developer</h3>

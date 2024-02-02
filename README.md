@@ -7,7 +7,7 @@
 
 - 🔭 I have just finished working on [MyGymWorld](https://github.com/GeorgiKostadinovPro/MyGymWorld)
 
-- 🌱 I’m currently working on <a href="https://github.com/GeorgiKostadinovPro/RentalCars">RentalCars</a>
+- 🌱 I’m currently working on [RentalCars](https://github.com/GeorgiKostadinovPro/RentalCars)
 
 - 💬 Ask me about **Web development, ASP.NET Core, EF Core, Databases, JavaScript...**
 

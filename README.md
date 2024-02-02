@@ -7,7 +7,7 @@
 
 - 🔭 I have just finished working on [MyGymWorld](https://github.com/GeorgiKostadinovPro/MyGymWorld)
 
-- 🌱 I’m currently learning <a href="https://react.dev/">React</a>
+- 🌱 I’m currently working on <a href="https://github.com/GeorgiKostadinovPro/RentalCars">RentalCars</a>
 
 - 💬 Ask me about **Web development, ASP.NET Core, EF Core, Databases, JavaScript...**
 

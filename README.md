@@ -35,7 +35,7 @@
 </a>
 <img src="https://user-images.githubusercontent.com/40461634/114240226-2f506580-9955-11eb-849b-e2a25117d681.png" width="48px"/>
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,postgres,bootstrap,html,css,js,react,git,postman,docker" />
+    <img src="https://skillicons.dev/icons?i=mysql,bootstrap,html,css,js,react,git,postman,docker" />
 </a>
 </p>
 

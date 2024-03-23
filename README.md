@@ -1,7 +1,7 @@
 ![github-header-image](https://github.com/GeorgiKostadinovPro/GeorgiKostadinovPro/assets/72508846/63d3c9f6-ae46-4d6f-a263-89d76d470454)
 
 <h1 align="center">Hi 👋, I'm Georgi</h1>
-<h3 align="center">A passionate .NET developer</h3>
+<h3 align="center">A passionate Full Stack developer</h3>
 
 <hr />
 
@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently working on [RentalCars](https://github.com/GeorgiKostadinovPro/RentalCars)
 
-- 💬 Ask me about **Web development, ASP.NET Core, EF Core, Databases, JavaScript...**
+- 💬 Ask me about **Web development, ASP.NET Core, EF Core, React...**
 
 - 👨‍💻 Check my LinkedIn for more info: [Georgi Kostadinov](https://www.linkedin.com/in/georgi-kostadinov-125349241/)
 

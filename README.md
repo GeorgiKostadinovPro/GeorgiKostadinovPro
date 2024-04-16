@@ -1,4 +1,4 @@
-![github-header-image](https://github.com/GeorgiKostadinovPro/GeorgiKostadinovPro/assets/72508846/63d3c9f6-ae46-4d6f-a263-89d76d470454)
+![github-header-image](https://github.com/GeorgiKostadinovPro/GeorgiKostadinovPro/assets/72508846/2b4dcd7d-fba6-4118-94c2-dd78ae302d7a)
 
 <h1 align="center">Hi 👋, I'm Georgi</h1>
 <h3 align="center">A passionate Full Stack developer</h3>
@@ -35,7 +35,7 @@
 </a>
 <img src="https://user-images.githubusercontent.com/40461634/114240226-2f506580-9955-11eb-849b-e2a25117d681.png" width="48px"/>
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,bootstrap,html,css,js,react,git,postman,docker" />
+    <img src="https://skillicons.dev/icons?i=bootstrap,html,css,js,react,git,postman,docker,firebase" />
 </a>
 </p>
 

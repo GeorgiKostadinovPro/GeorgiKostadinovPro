@@ -28,13 +28,9 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-<a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,dotnet" />
-</a>
-<img src="https://user-images.githubusercontent.com/40461634/114240226-2f506580-9955-11eb-849b-e2a25117d681.png" width="48px"/>
-<a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bootstrap,html,css,js,react,git,postman,docker,firebase" />
-</a>
+  <a href="https://go-skill-icons.vercel.app/">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=cs,dotnet,sqlserver,bootstrap,html,css,js,react,git,postman,docker,firebase" />
+  </a>
 </p>
 
 ![GeorgiKostadinovPro's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GeorgiKostadinovPro&theme=default&show_icons=true&hide_border=false&layout=compact)

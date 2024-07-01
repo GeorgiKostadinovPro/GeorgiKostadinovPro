@@ -1,4 +1,4 @@
-![github-header-image](https://github.com/GeorgiKostadinovPro/GeorgiKostadinovPro/assets/72508846/2b4dcd7d-fba6-4118-94c2-dd78ae302d7a)
+![github-header-image](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
 
 <h1 align="center">Hi 👋, I'm Georgi</h1>
 <h3 align="center">A passionate Full Stack developer</h3>

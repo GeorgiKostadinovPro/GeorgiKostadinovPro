@@ -1,19 +1,13 @@
 ![github-header-image](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
 
 <h1 align="center">Hi 👋, I'm Georgi</h1>
-<h3 align="center">A passionate Full Stack developer</h3>
+<h3 align="center">A passionate software engineer and Web3 enthusiast</h3>
 
 <hr />
-
-- 🔭 I have just finished working on [RentalCars](https://github.com/GeorgiKostadinovPro/RentalCars)
 
 - 💬 Ask me about **Web development, ASP.NET Core, EF Core, React...**
 
 - 👨‍💻 Check my LinkedIn for more info: [Georgi Kostadinov](https://www.linkedin.com/in/georgi-kostadinov-125349241/)
-
-- 📄 Licenses & certifications: [Certifications](https://www.linkedin.com/in/georgi-kostadinov-125349241/details/certifications/)
-
-- 📝 Software University Diploma: [Diploma](https://softuni.bg/certificates/details/193728/73d9549f)
 
 - 📫 How to reach me **kostadinovgeorgi16@gmail.com**
 

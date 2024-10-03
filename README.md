@@ -5,7 +5,7 @@
 
 <hr />
 
-- 💬 Ask me about **Web development, ASP.NET Core, EF Core, React...**
+- 💬 Ask me about **Web3, Web2, .NET Core, EF Core, React...**
 
 - 👨‍💻 Check my LinkedIn for more info: [Georgi Kostadinov](https://www.linkedin.com/in/georgi-kostadinov-125349241/)
 

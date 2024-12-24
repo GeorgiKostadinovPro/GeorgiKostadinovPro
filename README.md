@@ -5,7 +5,7 @@
 
 <hr />
 
-- 💬 Ask me about **Web3, Web2, .NET Core, EF Core, React...**
+- 💬 Ask me about **smart contract security, software development, and definitely not about love advice**
 
 - 👨‍💻 Check my LinkedIn for more info: [Georgi Kostadinov](https://www.linkedin.com/in/georgi-kostadinov-125349241/)
 

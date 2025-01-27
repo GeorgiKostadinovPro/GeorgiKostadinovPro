@@ -5,7 +5,7 @@
 
 <hr />
 
-- 💬 Ask me about **smart contract security, software development, and definitely not about love advice**
+- 💬 Ask me about **smart contract security, blockchain and software development**
 
 - 👨‍💻 Check my LinkedIn for more info: [Georgi Kostadinov](https://www.linkedin.com/in/georgi-kostadinov-125349241/)
 

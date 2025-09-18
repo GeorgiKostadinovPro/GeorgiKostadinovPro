@@ -27,6 +27,4 @@
   </a>
 </p>
 
-![GeorgiKostadinovPro's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GeorgiKostadinovPro&theme=default&show_icons=true&hide_border=false&layout=compact)
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=georgikostadinovpro&show_icons=true&locale=en" alt="georgikostadinovpro" /></p>

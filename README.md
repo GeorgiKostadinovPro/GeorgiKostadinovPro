@@ -23,7 +23,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://go-skill-icons.vercel.app/">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=solidity,rust,cs,dotnet,sqlserver,azure,bootstrap,html,css,js,react,git,postman,docker" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=solidity,cs,dotnet,sqlserver,azure,bootstrap,html,css,js,react,git,postman,docker" />
   </a>
 </p>
 

@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **smart contract security, blockchain and software development**
 
-- 👨‍💻 Check out my Audit Portfoilo: **[audit-portfolio](https://github.com/GeorgiKostadinovPro/audit-portfolio)**
+- 👨‍💻 Check out my Audit Portfolio: **[audit-portfolio](https://github.com/GeorgiKostadinovPro/audit-portfolio)**
 
 - 📫 How to reach me **kostadinovgeorgi16@gmail.com**
 
